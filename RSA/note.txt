@@ -6,6 +6,5 @@ salted_n = 594970481694684202179759469648509325570699634533973255077464437341031
 
 e = 65537
 
-Bob told me original q was eksored with some secret value `1` 2 `9` or 1 thru 9 something like that....
-ughhh I am so confused....
+
 
