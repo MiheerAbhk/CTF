@@ -1,4 +1,4 @@
-The passphrase for the private file is the event name :)
+You have to find the passphrase for the pdf. You know what I mean. 🌝
 the main task is to get the key for the other decryption ;)
 the IV for decryption has to be the first 8 bytes of public key.
 
